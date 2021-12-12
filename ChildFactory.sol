@@ -4,6 +4,7 @@
 // the creation of child contracts and we might also add other functions for
 // efficient management of these contracts (e.g. looking for a specific contract or
 // disabling a contract)
+// see Remnote doc for detailed instructions, explanations
 
 contract Factory{
      Child[] public children;
